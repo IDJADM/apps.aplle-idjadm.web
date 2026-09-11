@@ -1,2 +1,2 @@
 # app.delegate.web
-app.ilzadejesuscassiano.idjadm.web
+app.idjadm.ilzadejesuscassiano.com
